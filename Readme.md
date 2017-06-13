@@ -2,7 +2,7 @@
 
 ### DEPENDENCIES
 - Yerba Mate Tea
-- Sugar, preferrably dissolved in water
+- Sugar, preferrably dissolved in water or apple juice
 - Lemon Juice
 - Carbonated Water
 
@@ -15,6 +15,9 @@
   - Let it sit for at least 7 minutes.
   - Filter it through a coffee filter. This makes it less cloudy.
   - Let it cool down and finally put it in the fridge.
+
+If you want no additional sugar in your installation skip the following steps
+  
 - Dissolved sugar in water:
   - Pour 2dl water in a small pot and boil.
   - Add sugar and stir until the solution becomes a little bit thicker than water.
@@ -23,7 +26,9 @@
 ### INSTALLING
 - For each serving of FreeMate:
   - 20% SuperStrong Mate Tea
-  - Add as much sugar as required by your system, but don't take too much
+  - Add one of the following
+    - Add as much sugar as required by your system, but don't take too much
+    - Add apple juice until the sweetness of the instance has reached adequate levels
   - Add a few dashes of Lemon Juice
   - Mix it well
   - Add Carbonated Water
