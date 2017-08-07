@@ -2,7 +2,9 @@
 
 ### DEPENDENCIES
 - Yerba Mate Tea
-- Sugar, preferrably dissolved in water or apple juice
+- one of the following
+  - Sugar, preferrably dissolved in water
+  - apple juice
 - Lemon Juice
 - Carbonated Water
 
